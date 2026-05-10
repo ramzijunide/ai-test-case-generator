@@ -1,6 +1,3 @@
-# ai-test-case-generator
-AI-powered test case generator using Groq LLM and Streamlit
-
 #  AI Test Case Generator
 
 An AI-powered test case generator that automatically creates 
